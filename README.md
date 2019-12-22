@@ -1,6 +1,8 @@
 # flutterseed
 
-A new Flutter project.
+> gitme 源码重现
+
+- 参考 [一个完整的 Flutter 应用](https://book.flutterchina.club/chapter15/intro.html)
 
 ## Getting Started
 
