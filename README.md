@@ -1,4 +1,4 @@
-# flutterseed
+# flutter-gitme
 
 > gitme 源码重现
 
